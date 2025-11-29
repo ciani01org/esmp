@@ -1,1 +1,1 @@
-# esmp
+# Emerald SMP Wiki
